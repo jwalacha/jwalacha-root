@@ -1,3 +1,2 @@
-Hello World.
-This is a File 6.
+This is a File 6
 this is addition to file 6.  
